@@ -31,10 +31,3 @@ Here are some ideas to get you started:
   <img width=350px height=190px he src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-Ritika&theme=radical&hide=glsl,python"/>
 </a>
 </p>
-
-#
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=18-Ritika" width=160px/>
-</p>
-
