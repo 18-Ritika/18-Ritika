@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <br />
 
 
-- 💫 Exproring DSA 
+- 💫 Exploring DSA 
 - 📫 How to reach me: jaiswalritika18112000@gmail.com;
 
