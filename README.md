@@ -20,7 +20,21 @@ Here are some ideas to get you started:
 
 <br />
 
-
 - 💫 Exploring DSA 
 - 📫 How to reach me: jaiswalritika18112000@gmail.com;
+
+#
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=18-Ritika&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931" height=170px>
+
+<a href="https://github.com/18-Ritika">
+  <img width=350px height=190px he src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-Ritika&theme=radical&hide=glsl,python"/>
+</a>
+</p>
+
+#
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=18-Ritika" width=160px/>
+</p>
 
